@@ -717,16 +717,6 @@ This project is created for educational purposes as part of university coursewor
 
 ---
 
-## 📧 Support
-
-For questions, issues, or suggestions:
-- Review the code comments for implementation details
-- Check the console output for debugging information
-- Verify data file formats match specifications
-- Ensure Java version compatibility
-
----
-
 ## 🙏 Acknowledgments
 
 - **Java Documentation** - Official Java API references
@@ -749,12 +739,6 @@ By studying this project, you will learn:
 ✅ Software design patterns  
 ✅ Code organization and structure  
 ✅ Professional software documentation  
-
----
-
-**Last Updated:** January 26, 2026  
-**Version:** 1.0  
-**Status:** Active Development
 
 ---
 
