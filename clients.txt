@@ -1,8 +1,6 @@
 # Client Data Format: Name, CNIC, Phone
 Ahmed Ali,12345,300123456
 Sara Khan,67890,300987654
-Hassan Raza,11111,301111111
-Usman Tariq,12315,302555778
 Fatima Noor,88888,303777666
 Ali Raza,77777,304222333
 nadeem,123456,123456789
